@@ -1,4 +1,4 @@
-# BuildrBank · the server, written down
+# BuildrBanK
 
 Last week you stopped typing the deploy. A file in `.github/workflows/`
 builds the image, pushes it, walks into the server and swaps the
